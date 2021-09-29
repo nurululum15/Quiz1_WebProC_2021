@@ -1,5 +1,5 @@
 <?php
 
-header( 'Location: /quiz1/index.html' ) ;
+header( 'Location: /index.html' ) ;
 
 ?>
